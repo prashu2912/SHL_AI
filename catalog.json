@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Java 8 (New)",
+        "url": "https://www.shl.com/catalog/java-8-new",
+        "test_type": "K",
+        "description": "Evaluates a candidate's knowledge of Java 8 concepts, syntax, and standard libraries.",
+        "category": "Technology",
+        "seniority": ["Mid-level", "Senior"]
+    },
+    {
+        "name": "OPQ32r (Occupational Personality Questionnaire)",
+        "url": "https://www.shl.com/catalog/opq32r",
+        "test_type": "P",
+        "description": "A comprehensive personality assessment that provides detailed insights into behavioral style.",
+        "category": "Personality",
+        "seniority": ["Entry-level", "Mid-level", "Senior", "Executive"]
+    },
+    {
+        "name": "GSA (General Ability Screen)",
+        "url": "https://www.shl.com/catalog/gsa",
+        "test_type": "C",
+        "description": "Measures cognitive ability, problem-solving, and logical reasoning skills.",
+        "category": "Cognitive",
+        "seniority": ["Entry-level", "Mid-level"]
+    },
+    {
+        "name": "Python Programming (Advanced)",
+        "url": "https://www.shl.com/catalog/python-advanced",
+        "test_type": "K",
+        "description": "Assesses advanced Python skills including concurrency and data structures.",
+        "category": "Technology",
+        "seniority": ["Senior"]
+    }
+]
