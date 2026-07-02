@@ -43,6 +43,11 @@ class ChatResponse(BaseModel):
 
 # --- Endpoints ---
 
+@app.get("/")
+def read_root():
+    """Root endpoint to verify the API is running (prevents 404 on base URL)."""
+    return {"message": "SHL Conversational Assessment Recommender API is running. Visit /docs for the API schema."}
+
 @app.get("/health")
 def health_check():
     """Health check endpoint required by the evaluator."""
